@@ -1,5 +1,7 @@
 # README
 
+This is Chris Huttemann's first test project!
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
